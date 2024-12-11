@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/mine_clicked.png</file>
+        <file>icons/flag.png</file>
+        <file>icons/digit_8.png</file>
+        <file>icons/digit_7.png</file>
+        <file>icons/digit_6.png</file>
+        <file>icons/digit_5.png</file>
+        <file>icons/digit_4.png</file>
+        <file>icons/digit_3.png</file>
+        <file>icons/digit_2.png</file>
+        <file>icons/empty_cell.png</file>
+        <file>icons/digit_1.png</file>
+    </qresource>
+    <qresource prefix="/db">
+        <file>record.db</file>
+    </qresource>
+</RCC>
